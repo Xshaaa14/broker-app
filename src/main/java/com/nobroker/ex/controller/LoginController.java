@@ -53,4 +53,7 @@ public class LoginController {
         return "redirect:/login?logout";
     }
 
+    public void test(){
+    }
+
 }
