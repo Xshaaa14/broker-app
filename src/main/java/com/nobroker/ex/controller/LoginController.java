@@ -56,4 +56,7 @@ public class LoginController {
     public void test(){
     }
 
+    public void test2(){
+    }
+
 }
